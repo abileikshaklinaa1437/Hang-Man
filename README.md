@@ -7,12 +7,12 @@ The Hangman game is a classic word-guessing game where one player thinks of a wo
 
 Here's a breakdown of the game:
 
-Word Selection:One player thinks of a word and keeps it secret from the other player. This word is usually related to a specific category (e.g., animals, fruits, countries).
+1)# Word Selection:One player thinks of a word and keeps it secret from the other player. This word is usually related to a specific category (e.g., animals, fruits, countries).
 
-Display: The secret word is displayed to the guessing player as a series of blanks, with each blank representing a letter in the word.
+2)Display: The secret word is displayed to the guessing player as a series of blanks, with each blank representing a letter in the word.
 
-Guessing: The guessing player suggests a letter. If the letter is in the word, all instances of that letter are revealed in the blanks. If the letter is not in the word, a part of the hangman is drawn (e.g., a head, body, arm, leg).
+3)Guessing: The guessing player suggests a letter. If the letter is in the word, all instances of that letter are revealed in the blanks. If the letter is not in the word, a part of the hangman is drawn (e.g., a head, body, arm, leg).
 
-Winning/Losing: The game ends when the guessing player successfully guesses the word or when the hangman is completely drawn. If the hangman is drawn, the guessing player loses.
+4)Winning/Losing: The game ends when the guessing player successfully guesses the word or when the hangman is completely drawn. If the hangman is drawn, the guessing player loses.
 
 The challenge in the game is to strategically guess letters to reveal the word without making too many incorrect guesses and completing the hangman. It's a fun and interactive way to improve vocabulary and word recognition skills. The game can be implemented in various ways, with additional features such as scoring, difficulty levels, and more.
