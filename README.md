@@ -7,7 +7,7 @@ The Hangman game is a classic word-guessing game where one player thinks of a wo
 
 Here's a breakdown of the game:
 
-1)# Word Selection:One player thinks of a word and keeps it secret from the other player. This word is usually related to a specific category (e.g., animals, fruits, countries).
+1)Word Selection:One player thinks of a word and keeps it secret from the other player. This word is usually related to a specific category (e.g., animals, fruits, countries).
 
 2)Display: The secret word is displayed to the guessing player as a series of blanks, with each blank representing a letter in the word.
 
